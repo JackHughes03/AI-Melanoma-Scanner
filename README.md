@@ -18,7 +18,7 @@
 </ul>
 
 ## Training model option
-<p>There should not be a need to re-train the model as there is already a trained model in the directory. It is not recommended to train the model again because it takes so long. But if you have to, just click the 're-train model' button and wait until it is done.</p>
+<p>There should not be a need to re-train the model as there is already a trained model in the directory. It is also not recommended to train the model again because it takes so long. But if you have to, just click the 're-train model' button and wait until it is done.</p>
 
 ## Utilising this model in medical technology
 <p>Whilst this model is not currently fit for accurate predictions in the real-world, it still presents a high accuracy rate. This model with some adapting, is an example of what can be achieved with artifical intelligence to help patients get an answer quicker.</p>
