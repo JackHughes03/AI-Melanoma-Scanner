@@ -13,7 +13,7 @@
 ## How to use
 <ul>
   <li>Checkout the latest release and download the zip</li>
-  <li>Unzip the zip then unzip dataset.zip and model.zip</li>
+  <li>Unzip all of the zips (had to zip them to upload)</li>
   <li>Run main.exe</li>
   <li>Upload a clear picture you want to test and get your result</li>
 </ul>
