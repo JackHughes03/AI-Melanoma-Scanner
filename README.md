@@ -10,7 +10,7 @@
   <li>It uses a Convolutional Neural Network (CNN) to classify images of skin lesions as either benign or malignant.</li>
 </ul>
 
-## How to use
+## How to use - <span color="red">Not ready yet. Files still processing.</span>
 <ul>
   <li>Checkout the latest release and download the zip</li>
   <li>Unzip all of the zips (had to zip them to upload)</li>
