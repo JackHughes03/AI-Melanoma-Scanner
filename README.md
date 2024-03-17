@@ -12,9 +12,10 @@
 
 ## How to use
 <ul>
-  <li>Checkout the latest release and download the zip.</li>
-  <li>Unzip and run the main.exe.</li>
-  <li>Upload a clear picture you want to test and get your result.</li>
+  <li>Checkout the latest release and download the zip</li>
+  <li>Unzip the zip then unzip dataset.zip and model.zip</li>
+  <li>Run main.exe</li>
+  <li>Upload a clear picture you want to test and get your result</li>
 </ul>
 
 ## Training model option
