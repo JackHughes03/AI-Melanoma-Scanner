@@ -17,18 +17,18 @@
 ## Model Architecture
 <p>It uses a Convolutional Neural Network (CNN) to classify images of skin lesions as either benign or malignant.</p>
 
-## How to use - <span color="red">Not ready yet. Files still processing.</span>
+## How to use - requires IDE at the moment</span>
 <ul>
-  <li>Checkout the latest release and download the zip</li>
-  <li>Unzip all of the zips (had to zip them to upload)</li>
-  <li>Run main.exe</li>
+  <li>Download the project</li>
+  <li>Create a folder and put both the unzipped model and python file inside</li>
+  <li>Run the python script</li>
   <li>Upload a clear picture you want to test and get your result</li>
 </ul>
 
 ## False Positives/Negatives
 Whilst my model presents a high accuracy rate, there is still a chance that it may incorrectly classify an upload. As per the disclaimer at the top, please do not take the result of this model with any confidence, as it is not approved by any 'medical institution'. To reiterate, if you have an issue, <b>PLEASE SEE A DOCTOR.</b>
 
-## Training model option
+## Training model option - not ready yet
 <p>There should not be a need to re-train the model as there is already a trained model in the directory. It is also not recommended to train the model again because it takes so long. But if you have to, just click the 're-train model' button and wait until it is done.</p>
 
 ## Utilising this model in medical technology
