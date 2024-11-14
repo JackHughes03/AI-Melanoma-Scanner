@@ -33,3 +33,6 @@ Whilst my model presents a high accuracy rate, there is still a chance that it m
 
 ## Utilising this model in medical technology
 <p>Whilst this model is not currently fit for accurate predictions in the real-world, it still presents a high accuracy rate. This model with some adapting, is an example of what can be achieved with artifical intelligence to help patients get an answer quicker.</p>
+
+## Gui
+![Screenshot 2024-11-14 113753](https://github.com/user-attachments/assets/5f4bb997-c69f-4744-8649-54f6821f9787)
