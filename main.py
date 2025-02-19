@@ -56,7 +56,7 @@ def display_img(file):
 
 
 def upload_file():
-    file = customtkinter.filedialog.askopenfilename(filetypes=[("Image files", "*.png;*.jpg;*.jpeg")])
+    file = customtkinter.filedialog.askopenfilename()
 
     display_img(file)
     test_against_model(file)

@@ -19,9 +19,10 @@
 
 ## How to use - requires IDE at the moment</span>
 <ul>
-  <li>Download the project</li>
-  <li>Create a folder and put both the unzipped model and python file inside</li>
-  <li>Run the python script</li>
+  <li>Clone/Download the repo</li>
+  <li>Unzip the model and put it in the same directory as main.py</li>
+  <li>Run pip install -r requirements.txt to install the necessary libraries.</li>
+  <li>Run the main.py</li>
   <li>Upload a clear picture you want to test and get your result</li>
 </ul>
 
