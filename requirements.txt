@@ -1,0 +1,5 @@
+numpy
+tensorflow
+image
+scikit-learn
+customtkinter
